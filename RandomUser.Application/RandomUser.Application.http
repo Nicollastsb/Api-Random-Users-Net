@@ -1,0 +1,6 @@
+@RandomUser.Application_HostAddress = http://localhost:5011
+
+GET {{RandomUser.Application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
